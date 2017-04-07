@@ -1,0 +1,51 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+head{
+	width:100%;
+	height: 50px;
+	background: #333;
+	color: #fff;
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 100;
+
+}
+
+.texto1 { font-size: 20px;
+color: green;
+}
+body table{
+	align-content: center;
+}
+#tabla{
+	 
+	 overflow:scroll;
+     height:200px;
+     width:700px;
+     
+ }
+ #nombre{
+ 	background: #fff;
+
+ }
+
+
+#tabla table {
+    width:683px;
+    text-align: center;
+    align-content: center;
+}
+
+
+
+.titulo{
+	position: center;
+	top: 0;
+	width: 80px;
+	height: 20px;
+	background: #333;
+	color: #fff;
+}
