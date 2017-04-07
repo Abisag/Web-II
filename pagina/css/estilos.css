@@ -13,24 +13,41 @@ head{
 	z-index: 100;
 
 }
-
+.bottom{
+    background-color: darkgoldenrod;
+    border: 2px;
+    padding: 15px;
+text-align: center;
+border: 1px solid #999999;
+}
 .texto1 { font-size: 20px;
-color: green;
+background-color: chocolate;
+}
+.texto2 { font-size: 20px;
+background-color: burlywood;
 }
 body table{
 	align-content: center;
+    
+ 
+
 }
 #tabla{
-	 
-	 overflow:scroll;
-     height:200px;
-     width:700px;
-     
- }
+
+    padding: 5px 15px;
+    
+}
  #nombre{
  	background: #fff;
+     background-color: brown;
 
  }
+
+.texto3{
+    background-color: darkturquoise;
+    text-align: center;
+    text-decoration-color:black;
+}
 
 
 #tabla table {
